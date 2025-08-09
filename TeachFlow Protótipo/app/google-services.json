@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971812286934",
+    "project_id": "teachflow-f3f95",
+    "storage_bucket": "teachflow-f3f95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971812286934:android:3405fe552ee8194242b477",
+        "android_client_info": {
+          "package_name": "fiap.com.edtech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXc63kWhZ7T9EskRTOG3q-2wjFPBKKreA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
