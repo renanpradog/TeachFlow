@@ -1,0 +1,47 @@
+# SO / Editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+*.iml
+
+# Android / Gradle
+.gradle/
+**/build/
+**/captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+*.keystore
+*.jks
+**/keystore*.jks
+**/google-services.json
+
+# Gradle Wrapper (MANTER estes 4 no repo)
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+!gradlew
+!gradlew.bat
+
+# Kotlin/Java
+out/
+*.class
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Node (se houver)
+node_modules/
+dist/
+
+# Dados brutos (se houver)
+data/raw/
